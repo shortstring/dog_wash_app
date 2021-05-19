@@ -1,0 +1,51 @@
+
+24
+3
+Pet Washers
+true
+true
+false
+true
+false
+false
+true
+8
+30
+23
+30
+Dogs, Cats, Horses
+20.5
+
+41
+2
+Dash Door
+true
+true
+true
+true
+true
+false
+false
+8
+30
+19
+45
+Food, Groceries, Whatever you want
+5.0
+
+56
+1
+House Cleaning Co.
+true
+true
+true
+false
+false
+false
+false
+1
+30
+23
+45
+House Cleaning, Inside only 
+25.3
